@@ -1,0 +1,10 @@
+Salvar sistema no computador em disco local (C:)
+
+Após salvo abrir sistema pelo arquivo index (opcional: criar atalho na area de trabalho para fácil acesso).
+utilizar sistema.
+
+Pasta Entrar V6_files - contém a estrutura do sistema, com imagens, banco de dados (arquivo.js), ícones, código fonte.
+
+Lembrete: o sistema só permite acesso mediante usuário e senha.
+
+Bom uso!
